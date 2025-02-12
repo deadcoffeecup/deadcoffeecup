@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm deadcoffeecup 👋
 
-<!--
-**deadcoffeecup/deadcoffeecup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a passionate developer with a love for coding, coffee, and solving complex problems. I enjoy working on a variety of projects, from web to mobile. My goal is to continuously learn and improve my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages**: JavaScript, Typescript, Dart
+- **Frameworks**: React, Node.js, Django, Flutter, React Native CLI, Expo, Next.js
+- **Tools**: Git, CI/CD
+
+## Contact
+
+- **LinkedIn**: [linkedin.com/in/deadcoffeecup](https://linkedin.com/in/deadcoffeecup)
+
+## Stats
+
+![deadcoffeecup's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadcoffeecup&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadcoffeecup&layout=compact&theme=radical)
+
+
+
+Thanks for visiting my profile! Have a great day! 😊
