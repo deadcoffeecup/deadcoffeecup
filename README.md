@@ -15,11 +15,6 @@ and
 
 
 
-
-## Contact
-
-- **LinkedIn**: [linkedin.com/in/deadcoffeecup](https://linkedin.com/in/deadcoffeecup)
-
 ## Stats
 
 soon...
