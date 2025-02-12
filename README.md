@@ -6,9 +6,15 @@ I'm a passionate developer with a love for coding, coffee, and solving complex p
 
 ## Skills
 
-- **Languages**: JavaScript, Typescript, Dart
-- **Frameworks**: React, Node.js, Django, Flutter, React Native CLI, Expo, Next.js
-- **Tools**: Git, CI/CD
+![My Skills](https://skillicons.dev/icons?i=androidstudio,apple,arch,bitbucket,css,cypress,dart,firebase,flutter,git,github,html,jest,nestjs,nextjs,nodejs,react,redux,sass,tailwind,typescript&amp;perline=6)
+
+
+
+and 
+![React Native](https://skillicons.dev/icons?i=react) Native 
+
+
+
 
 ## Contact
 
@@ -16,9 +22,7 @@ I'm a passionate developer with a love for coding, coffee, and solving complex p
 
 ## Stats
 
-![deadcoffeecup's GitHub stats](https://github-readme-stats.vercel.app/api?username=deadcoffeecup&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deadcoffeecup&layout=compact&theme=radical)
+soon...
 
 
 
