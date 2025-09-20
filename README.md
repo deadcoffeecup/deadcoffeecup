@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a passionate developer with a love for coding, coffee, and solving complex problems. I enjoy working on a variety of projects, from web to mobile. My goal is to continuously learn and improve my skills.
+I’m a passionate developer with a love for coding, coffee, and tackling complex problems. I enjoy working on diverse projects, from web to mobile, and I’m always eager to explore new technologies. My goal is to continuously learn, grow, and create efficient cross-platform solutions that make a real impact.
 
 ## Skills
 
@@ -13,11 +13,6 @@ I'm a passionate developer with a love for coding, coffee, and solving complex p
 and 
 ![React Native](https://skillicons.dev/icons?i=react) Native 
 
-
-
-## Stats
-
-soon...
 
 
 
